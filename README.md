@@ -15,6 +15,7 @@ Here you can find my golang solutions for [Advent Of Code 2023](https://adventof
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2024/day/1) | 🌟 | 🌟 |
 <!--- advent_readme_stars table --->
 
 ## Codegen
