@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/day%20📅-23-blue) ![](https://img.shields.io/badge/stars%20⭐-34-yellow) ![](https://img.shields.io/badge/days%20completed-17-red)
+![](https://img.shields.io/badge/day%20📅-1-blue) ![](https://img.shields.io/badge/stars%20⭐-2-yellow) ![](https://img.shields.io/badge/days%20completed-1-red)
 
 <img src="./static/logo.svg" width="220" />
 
