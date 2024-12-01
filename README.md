@@ -8,7 +8,7 @@
 
 </div>
 
-Here you can find my golang solutions for [Advent Of Code 2023](https://adventofcode.com).
+Here you can find my golang solutions for [Advent Of Code 2024](https://adventofcode.com).
 
 <!--- advent_readme_stars table --->
 ## 2024 Results
