@@ -25,6 +25,8 @@ Here you can find my golang solutions for [Advent Of Code 2024](https://adventof
 | [Day 8](https://adventofcode.com/2024/day/8) | 🌟 | 🌟 |
 | [Day 9](https://adventofcode.com/2024/day/9) | 🌟 | 🌟 |
 | [Day 10](https://adventofcode.com/2024/day/10) | 🌟 | 🌟 |
+| [Day 11](https://adventofcode.com/2024/day/11) | 🌟 | 🌟 |
+| [Day 12](https://adventofcode.com/2024/day/12) | 🌟 |   |
 <!--- advent_readme_stars table --->
 
 ## Codegen
